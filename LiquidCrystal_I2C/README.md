@@ -6,4 +6,5 @@ Create the folder "libraries" in case it does not exist yet. Place all the files
 To use the library in your own sketch, select it from *Sketch > Import Library*.
 
 -------------------------------------------------------------------------------------------------------------------
-This library is based on work done by DFROBOT (www.dfrobot.com).
+==> change your address of I2C channel (in example use I2C scanner to find the addres of thr I2c)
+
